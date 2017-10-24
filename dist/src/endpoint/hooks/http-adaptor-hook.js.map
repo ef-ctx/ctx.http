@@ -1,0 +1,1 @@
+{"version":3,"file":"http-adaptor-hook.js","sourceRoot":"","sources":["../../../../src/endpoint/hooks/http-adaptor-hook.ts"],"names":[],"mappings":";;AAaA;IAKE,yBAAY,OAAoB;QAE9B,IAAI,CAAC,QAAQ,GAAG,OAAO,CAAC;IAC1B,CAAC;IAEM,iCAAO,GAAd,UAAe,KAAkB;QAE/B;;WAEG;QAEH,MAAM,CAAC,IAAI,CAAC,QAAQ,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC;IACtC,CAAC;IACH,sBAAC;AAAD,CAAC,AAlBD,IAkBC;AAlBY,0CAAe"}
